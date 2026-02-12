@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on [Web Development](https://github.com/karangnayaka/The-Complete-Web-Development-Bootcamp)
 
-- 🌱 I’m currently learning **JavaScript, NodeJs, Python**
+- 🌱 I’m currently working as Software Developer 
 
-- 👯 I’m looking to collaborate on **Assistance for Visually Impaired People**
-
-- 💬 Ask me about **HTML, CSS, DSA**
+- 👯 I’m looking to collaborate on tech stacks like C++ , Python , Qt quick , linux and JS
 
 - 📫 How to reach me: **[karan02.nayaka@gmail.com](mailto:karan02.nayaka@gmail.com)**
 
