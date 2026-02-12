@@ -1,3 +1,15 @@
+### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Karan G</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karangnayaka&label=Profile%20views&color=blue&style=flat" alt="karangnayaka" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karangnayaka&theme=darkhub" alt="karangnayaka" /></a> </p>
+
+- 🔭 I’m currently working on [Web Development](https://github.com/karangnayaka/The-Complete-Web-Development-Bootcamp)
+
+- 🌱 I’m currently working as Software Developer 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karangnayaka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karan02.nayaka@gmail.com) 
